@@ -1,0 +1,8 @@
+{
+  "name": "gha-update",
+  "version": "1.0.0",
+  "description": "Writes current datetime to a file via GitHub Actions",
+  "scripts": {
+    "update": "node update-timestamp.js"
+  }
+}
